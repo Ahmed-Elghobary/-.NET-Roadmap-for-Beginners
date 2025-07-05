@@ -1,6 +1,6 @@
 # .NET-Roadmap-for-Beginners
 Roadmap to learn .NET for  beginners (in Arabic)
-
+هيكون من كل موضوع اكتر من كورس كلهم زى الفل اختار الي ترتاح معاه ف الشرح
 # 🚀 .NET Roadmap for Beginners
 
 السلام عليكم 👋  
@@ -9,20 +9,12 @@ Roadmap to learn .NET for  beginners (in Arabic)
 
 ---
 
-## 🧱 1. Prerequisites (التمهيد قبل البدء)
 
-- أساسيات البرمجة (يفضل C#):  
-  [Programming Fundamentals (FreeCodeCamp)](https://www.youtube.com/watch?v=8PopR3x-VMY)
-
-- Git & GitHub Basics:  
-  [Git & GitHub Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
-
----
 
 ## 💻 2. Learn C# Basics
-
+- أساسيات البرمجة ( C#):
 - C# Syntax and Structure  
-  [Microsoft C# Docs](https://learn.microsoft.com/en-us/dotnet/csharp/)
+  [م محمد سعد](https://www.youtube.com/watch?v=QEAhRXhA5B4&list=PLZyQU-WOzZF0JBCnPToWA3SfwlDyL4yKn)
 
 - OOP in C# (Classes, Inheritance, etc.)  
   [C# OOP Tutorial](https://www.youtube.com/watch?v=GhQdlIFylQ8)
