@@ -1,17 +1,17 @@
-# .NET-Roadmap-for-Beginners
+# 🚀 .NET-Roadmap-for-Beginners
 Roadmap to learn .NET for  beginners (in Arabic)
-هيكون من كل موضوع اكتر من كورس كلهم زى الفل اختار الي ترتاح معاه ف الشرح
-# 🚀 .NET Roadmap for Beginners
+
 
 السلام عليكم 👋  
-الملف ده معمول مخصوص لأي حد حابب يبدأ في مجال الـ Back-End باستخدام .NET من الصفر لحد ما يكون جاهز يشتغل أو يعمل مشاريع قوية.  
+الملف ده معمول مخصوص لأي حد حابب يبدأ في مجال الـ Back-End باستخدام .NET من الصفر لحد ما يكون جاهز يشتغل أو يعمل مشاريع قوية. 
+هيكون من كل موضوع اكتر من كورس كلهم زى الفل اختار الي ترتاح معاه ف الشرح
 ربنا يجعله صدقة جارية 🌱
 
 ---
 
 
 
-## 💻 2. Learn C# Basics
+## 💻 1. Learn C# Basics
 
 
 - 🎥 [أساسيات البرمجة باستخدام C# – م. محمد سعد](https://www.youtube.com/watch?v=QEAhRXhA5B4&list=PLZyQU-WOzZF0JBCnPToWA3SfwlDyL4yKn)  
@@ -23,7 +23,7 @@ Roadmap to learn .NET for  beginners (in Arabic)
   تغطية ممتازة للمفاهيم الأساسية في C# لكن لو اول مره تبدا خالص ممكن يبقي تقيل شويه في البدايه
 
 
-### 📌 OOP in C#
+### 📌2 OOP in C#
 
 > من أهم الحاجات اللي لازم تركز عليها وتفهمها كويس جدًا 💡  
 
@@ -34,17 +34,21 @@ Roadmap to learn .NET for  beginners (in Arabic)
 - 🎥 [OOP in C# (من الفيديو 15) – م. عصام عبد النبي](https://www.youtube.com/watch?v=P1j1PI0YL-M&list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l&index=15)  
   ⭐  مكمل لسلسلة الأساسيات شرح مميز ومتكامل بامثله واقعيه.
 
-- 🎥 [OOP in C# (من الفيديو 37) – م. محمد المهدي](https://www.youtube.com/watch?v=P1j1PI0YL-M&list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l&index=37)  
-  ⭐  مكمل لسلسلة الأساسيات شرح مميز ومتكامل بامثله واقعيه.
-- LINQ Basics  
-  [LINQ Tutorial](https://www.tutorialsteacher.com/linq)
+- 🎥 [OOP in C# (من الفيديو 37) – م. محمد المهدي](https://www.youtube.com/watch?v=DZHohhJDjHk&list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI)  
+  ⭐  مكمل لسلسلة الأساسيات
 
 ---
 
 ## ⚙️ 3. .NET Fundamentals
 
-- What is .NET?  
-  [Introduction to .NET (Microsoft)](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet)
+### 📌 LINQ Basics
+
+- 🎥 [LINQ in C# – م. محمد الهلالي | DevCreed](https://www.youtube.com/watch?v=gnF7TcvugfA&list=PL62tSREI9C-c8OrLP_atJC_2PXqHKnUme)  
+  ⭐كورس جديد و مميز من كورسات م الهلالي بيغطي الاساسيات الي هتكون محتاجها عشان تكمل بعد كدا
+- 🎥 [LINQ in C# – م. عصام عبد النبي](https://www.youtube.com/watch?v=XLIqOBr7Cm0&list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6)  
+  ⭐لو عاوز تدخل في تفاصيل اكتر 
+
+
 
 - .NET CLI & Project Structure  
   [Official CLI Docs](https://learn.microsoft.com/en-us/dotnet/core/tools/)
