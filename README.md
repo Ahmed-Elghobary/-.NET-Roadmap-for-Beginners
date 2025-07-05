@@ -12,9 +12,15 @@ Roadmap to learn .NET for  beginners (in Arabic)
 
 
 ## 💻 2. Learn C# Basics
-- أساسيات البرمجة ( C#):
-- C# Syntax and Structure  
-  [م محمد سعد](https://www.youtube.com/watch?v=QEAhRXhA5B4&list=PLZyQU-WOzZF0JBCnPToWA3SfwlDyL4yKn)
+
+
+- 🎥 [أساسيات البرمجة باستخدام C# – م. محمد سعد](https://www.youtube.com/watch?v=QEAhRXhA5B4&list=PLZyQU-WOzZF0JBCnPToWA3SfwlDyL4yKn)  
+  سلسلة شرح مفصل من البداية مع تطبيقات عملية 
+ - 🎥 [أساسيات البرمجة باستخدام C# – م. محمد المهدي](https://www.youtube.com/watch?v=DZHohhJDjHk&list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI)  
+  سلسلة شرح مفصل من البداية
+
+- 🎥 [أساسيات البرمجة باستخدام C# – م. عصام عبد النبي (الفيديوهات 1 إلى 14)](https://www.youtube.com/watch?v=P1j1PI0YL-M&list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)  
+  تغطية ممتازة للمفاهيم الأساسية في C# لكن لو اول مره تبدا خالص ممكن يبقي تقيل شويه في البدايه
 
 - OOP in C# (Classes, Inheritance, etc.)  
   [C# OOP Tutorial](https://www.youtube.com/watch?v=GhQdlIFylQ8)
