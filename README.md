@@ -1,2 +1,2 @@
-# -.NET-Roadmap-for-Beginners
-Roadmap to learn .NET for absolute beginners (in Arabic)
+# .NET-Roadmap-for-Beginners
+Roadmap to learn .NET for  beginners (in Arabic)
