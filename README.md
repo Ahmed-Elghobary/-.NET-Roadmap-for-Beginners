@@ -22,9 +22,20 @@ Roadmap to learn .NET for  beginners (in Arabic)
 - 🎥 [أساسيات البرمجة باستخدام C# – م. عصام عبد النبي (الفيديوهات 1 إلى 14)](https://www.youtube.com/watch?v=P1j1PI0YL-M&list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)  
   تغطية ممتازة للمفاهيم الأساسية في C# لكن لو اول مره تبدا خالص ممكن يبقي تقيل شويه في البدايه
 
-- OOP in C# (Classes, Inheritance, etc.)  
-  [C# OOP Tutorial](https://www.youtube.com/watch?v=GhQdlIFylQ8)
 
+### 📌 OOP in C#
+
+> من أهم الحاجات اللي لازم تركز عليها وتفهمها كويس جدًا 💡  
+
+
+- 🎥 [OOP in C# – م. محمد سعد](https://www.youtube.com/watch?v=B2ZjMUSvqbc&list=PLZyQU-WOzZF2g5PCSHfhHvoX7BnCUn3Md&index=1)  
+  ⭐ من أحسن الكورسات اللي شوفتها في شرح الـ OOP بشكل مبسط وتطبيقي، مع أمثلة عملية واضحة.
+
+- 🎥 [OOP in C# (من الفيديو 15) – م. عصام عبد النبي](https://www.youtube.com/watch?v=P1j1PI0YL-M&list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l&index=15)  
+  ⭐  مكمل لسلسلة الأساسيات شرح مميز ومتكامل بامثله واقعيه.
+
+- 🎥 [OOP in C# (من الفيديو 37) – م. محمد المهدي](https://www.youtube.com/watch?v=P1j1PI0YL-M&list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l&index=37)  
+  ⭐  مكمل لسلسلة الأساسيات شرح مميز ومتكامل بامثله واقعيه.
 - LINQ Basics  
   [LINQ Tutorial](https://www.tutorialsteacher.com/linq)
 
